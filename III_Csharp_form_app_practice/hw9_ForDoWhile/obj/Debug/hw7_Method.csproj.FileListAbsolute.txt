@@ -1,0 +1,10 @@
+D:\Csharp\hw6_Method\hw6_Method\bin\Debug\hw6_Method.exe.config
+D:\Csharp\hw6_Method\hw6_Method\bin\Debug\hw6_Method.exe
+D:\Csharp\hw6_Method\hw6_Method\bin\Debug\hw6_Method.pdb
+D:\Csharp\hw6_Method\hw6_Method\obj\Debug\hw7_Method.csprojAssemblyReference.cache
+D:\Csharp\hw6_Method\hw6_Method\obj\Debug\hw7_Method.Form1.resources
+D:\Csharp\hw6_Method\hw6_Method\obj\Debug\hw6_Method.Properties.Resources.resources
+D:\Csharp\hw6_Method\hw6_Method\obj\Debug\hw7_Method.csproj.GenerateResource.cache
+D:\Csharp\hw6_Method\hw6_Method\obj\Debug\hw7_Method.csproj.CoreCompileInputs.cache
+D:\Csharp\hw6_Method\hw6_Method\obj\Debug\hw6_Method.exe
+D:\Csharp\hw6_Method\hw6_Method\obj\Debug\hw6_Method.pdb

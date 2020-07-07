@@ -1,0 +1,10 @@
+F:\NTU\資策會Csharp\hw4_student_structForm\hw4_student_structForm\bin\Debug\hw4_student_structForm.exe.config
+F:\NTU\資策會Csharp\hw4_student_structForm\hw4_student_structForm\bin\Debug\hw4_student_structForm.exe
+F:\NTU\資策會Csharp\hw4_student_structForm\hw4_student_structForm\bin\Debug\hw4_student_structForm.pdb
+F:\NTU\資策會Csharp\hw4_student_structForm\hw4_student_structForm\obj\Debug\hw4_student_structForm.csprojAssemblyReference.cache
+F:\NTU\資策會Csharp\hw4_student_structForm\hw4_student_structForm\obj\Debug\hw4_student_structForm.Form1.resources
+F:\NTU\資策會Csharp\hw4_student_structForm\hw4_student_structForm\obj\Debug\hw4_student_structForm.Properties.Resources.resources
+F:\NTU\資策會Csharp\hw4_student_structForm\hw4_student_structForm\obj\Debug\hw4_student_structForm.csproj.GenerateResource.cache
+F:\NTU\資策會Csharp\hw4_student_structForm\hw4_student_structForm\obj\Debug\hw4_student_structForm.csproj.CoreCompileInputs.cache
+F:\NTU\資策會Csharp\hw4_student_structForm\hw4_student_structForm\obj\Debug\hw4_student_structForm.exe
+F:\NTU\資策會Csharp\hw4_student_structForm\hw4_student_structForm\obj\Debug\hw4_student_structForm.pdb

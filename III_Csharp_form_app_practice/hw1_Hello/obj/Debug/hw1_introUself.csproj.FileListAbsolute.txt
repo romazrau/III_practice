@@ -1,0 +1,10 @@
+D:\Csharp\hw1_introUself\hw1_introUself\bin\Debug\hw1_introUself.exe.config
+D:\Csharp\hw1_introUself\hw1_introUself\bin\Debug\hw1_introUself.exe
+D:\Csharp\hw1_introUself\hw1_introUself\bin\Debug\hw1_introUself.pdb
+D:\Csharp\hw1_introUself\hw1_introUself\obj\Debug\hw1_introUself.csprojAssemblyReference.cache
+D:\Csharp\hw1_introUself\hw1_introUself\obj\Debug\hw1_introUself.Form1.resources
+D:\Csharp\hw1_introUself\hw1_introUself\obj\Debug\hw1_introUself.Properties.Resources.resources
+D:\Csharp\hw1_introUself\hw1_introUself\obj\Debug\hw1_introUself.csproj.GenerateResource.cache
+D:\Csharp\hw1_introUself\hw1_introUself\obj\Debug\hw1_introUself.csproj.CoreCompileInputs.cache
+D:\Csharp\hw1_introUself\hw1_introUself\obj\Debug\hw1_introUself.exe
+D:\Csharp\hw1_introUself\hw1_introUself\obj\Debug\hw1_introUself.pdb

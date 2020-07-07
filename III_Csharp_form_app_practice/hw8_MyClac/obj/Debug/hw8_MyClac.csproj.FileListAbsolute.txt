@@ -1,0 +1,10 @@
+D:\Csharp\hw8_MyClac\hw8_MyClac\bin\Debug\hw8_MyClac.exe.config
+D:\Csharp\hw8_MyClac\hw8_MyClac\bin\Debug\hw8_MyClac.exe
+D:\Csharp\hw8_MyClac\hw8_MyClac\bin\Debug\hw8_MyClac.pdb
+D:\Csharp\hw8_MyClac\hw8_MyClac\obj\Debug\hw8_MyClac.csprojAssemblyReference.cache
+D:\Csharp\hw8_MyClac\hw8_MyClac\obj\Debug\hw8_MyClac.Form1.resources
+D:\Csharp\hw8_MyClac\hw8_MyClac\obj\Debug\hw8_MyClac.Properties.Resources.resources
+D:\Csharp\hw8_MyClac\hw8_MyClac\obj\Debug\hw8_MyClac.csproj.GenerateResource.cache
+D:\Csharp\hw8_MyClac\hw8_MyClac\obj\Debug\hw8_MyClac.csproj.CoreCompileInputs.cache
+D:\Csharp\hw8_MyClac\hw8_MyClac\obj\Debug\hw8_MyClac.exe
+D:\Csharp\hw8_MyClac\hw8_MyClac\obj\Debug\hw8_MyClac.pdb

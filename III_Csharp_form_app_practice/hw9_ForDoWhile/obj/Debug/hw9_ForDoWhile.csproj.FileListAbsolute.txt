@@ -1,0 +1,10 @@
+D:\Csharp\hw9_ForDoWhile\hw9_ForDoWhile\bin\Debug\hw6_Method.exe.config
+D:\Csharp\hw9_ForDoWhile\hw9_ForDoWhile\bin\Debug\hw6_Method.exe
+D:\Csharp\hw9_ForDoWhile\hw9_ForDoWhile\bin\Debug\hw6_Method.pdb
+D:\Csharp\hw9_ForDoWhile\hw9_ForDoWhile\obj\Debug\hw9_ForDoWhile.csprojAssemblyReference.cache
+D:\Csharp\hw9_ForDoWhile\hw9_ForDoWhile\obj\Debug\hw7_Method.Form1.resources
+D:\Csharp\hw9_ForDoWhile\hw9_ForDoWhile\obj\Debug\hw6_Method.Properties.Resources.resources
+D:\Csharp\hw9_ForDoWhile\hw9_ForDoWhile\obj\Debug\hw9_ForDoWhile.csproj.GenerateResource.cache
+D:\Csharp\hw9_ForDoWhile\hw9_ForDoWhile\obj\Debug\hw9_ForDoWhile.csproj.CoreCompileInputs.cache
+D:\Csharp\hw9_ForDoWhile\hw9_ForDoWhile\obj\Debug\hw6_Method.exe
+D:\Csharp\hw9_ForDoWhile\hw9_ForDoWhile\obj\Debug\hw6_Method.pdb

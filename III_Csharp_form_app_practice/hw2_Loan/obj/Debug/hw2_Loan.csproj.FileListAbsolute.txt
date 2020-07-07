@@ -1,0 +1,11 @@
+D:\Csharp\hw2_Loan\hw2_Loan\bin\Debug\hw2_Loan.exe.config
+D:\Csharp\hw2_Loan\hw2_Loan\bin\Debug\hw2_Loan.exe
+D:\Csharp\hw2_Loan\hw2_Loan\bin\Debug\hw2_Loan.pdb
+D:\Csharp\hw2_Loan\hw2_Loan\obj\Debug\hw2_Loan.csprojAssemblyReference.cache
+D:\Csharp\hw2_Loan\hw2_Loan\obj\Debug\hw2_Loan.Form1.resources
+D:\Csharp\hw2_Loan\hw2_Loan\obj\Debug\hw2_Loan.Properties.Resources.resources
+D:\Csharp\hw2_Loan\hw2_Loan\obj\Debug\hw2_Loan.csproj.GenerateResource.cache
+D:\Csharp\hw2_Loan\hw2_Loan\obj\Debug\hw2_Loan.csproj.CoreCompileInputs.cache
+D:\Csharp\hw2_Loan\hw2_Loan\obj\Debug\hw2_Loan.exe
+D:\Csharp\hw2_Loan\hw2_Loan\obj\Debug\hw2_Loan.pdb
+D:\Csharp\hw2_Loan\hw2_Loan\obj\Debug\hw2_Loan.pop_form.resources

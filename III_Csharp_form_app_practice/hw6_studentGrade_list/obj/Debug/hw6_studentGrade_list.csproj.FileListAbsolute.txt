@@ -1,0 +1,10 @@
+D:\Csharp\hw6_studentGrade_list\hw6_studentGrade_list\bin\Debug\hw4_student_structForm.exe.config
+D:\Csharp\hw6_studentGrade_list\hw6_studentGrade_list\bin\Debug\hw4_student_structForm.exe
+D:\Csharp\hw6_studentGrade_list\hw6_studentGrade_list\bin\Debug\hw4_student_structForm.pdb
+D:\Csharp\hw6_studentGrade_list\hw6_studentGrade_list\obj\Debug\hw6_studentGrade_list.csprojAssemblyReference.cache
+D:\Csharp\hw6_studentGrade_list\hw6_studentGrade_list\obj\Debug\hw5_studentGrade.Form1.resources
+D:\Csharp\hw6_studentGrade_list\hw6_studentGrade_list\obj\Debug\hw4_student_structForm.Properties.Resources.resources
+D:\Csharp\hw6_studentGrade_list\hw6_studentGrade_list\obj\Debug\hw6_studentGrade_list.csproj.GenerateResource.cache
+D:\Csharp\hw6_studentGrade_list\hw6_studentGrade_list\obj\Debug\hw6_studentGrade_list.csproj.CoreCompileInputs.cache
+D:\Csharp\hw6_studentGrade_list\hw6_studentGrade_list\obj\Debug\hw4_student_structForm.exe
+D:\Csharp\hw6_studentGrade_list\hw6_studentGrade_list\obj\Debug\hw4_student_structForm.pdb
